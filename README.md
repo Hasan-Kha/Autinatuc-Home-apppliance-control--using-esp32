@@ -1,4 +1,4 @@
-# Autinatuc-fish-farm-monitization-using-esp32
+# Automatic-fish-farm-monitization-using-esp32
 Features :
 1.Realtime  clock  active even though the switch is off
 2.Remote Home appiaence control using cloud server and android app
